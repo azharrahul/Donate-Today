@@ -43,7 +43,8 @@ h2 {
 }
 
 
-#p2 {
+.p2 {
+
     color: rgb(109, 100, 100);
     font-size: 20px;
     font-weight: 300;
@@ -62,6 +63,7 @@ h2 {
     background-color: rgba(228, 228, 228, 0.687);
     padding: 30px 30px 30px 30px;
     border-radius: 5%;
+
 
 }
 
@@ -135,4 +137,42 @@ h2 {
     text-decoration: none;
     color: white;
     font-weight: 550;
+}
+
+.cll1 {
+    display: flex;
+    margin-top: 7%;
+    margin-left: 18%;
+    margin-right: 10%;
+}
+
+.cl1 {
+    float: left;
+    margin-left: 1%;
+    background-color: rgb(230, 233, 255);
+    color: rgb(103, 93, 93);
+    padding: 30px 30px 30px 30px;
+    border-radius: 5%;
+}
+
+.cl2 {
+    float: left;
+    margin-left: 1%;
+    background-color: rgb(255, 233, 233);
+    color: rgb(103, 93, 93);
+    padding: 30px 30px 30px 30px;
+    border-radius: 5%;
+}
+
+.cl3 {
+    float: left;
+    margin-left: 1%;
+    background-color: rgb(251, 246, 206);
+    color: rgb(103, 93, 93);
+    padding: 30px 30px 30px 30px;
+    border-radius: 5%;
+}
+
+h4 {
+    color: rgb(0, 0, 0);
 }
