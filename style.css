@@ -54,7 +54,7 @@ h2 {
 
 .tk {
     font-size: 24px;
-    margin-left: 30%;
+    margin-left: 20%;
 }
 
 .a1 {
@@ -141,7 +141,7 @@ h2 {
 
 .cll1 {
     display: flex;
-    margin-top: 7%;
+    margin-top: 2%;
     margin-left: 18%;
     margin-right: 10%;
 }
@@ -151,7 +151,7 @@ h2 {
     margin-left: 1%;
     background-color: rgb(230, 233, 255);
     color: rgb(103, 93, 93);
-    padding: 30px 30px 30px 30px;
+    padding: 90px 90px 90px 90px;
     border-radius: 5%;
 }
 
@@ -160,7 +160,7 @@ h2 {
     margin-left: 1%;
     background-color: rgb(255, 233, 233);
     color: rgb(103, 93, 93);
-    padding: 30px 30px 30px 30px;
+    padding: 90px 90px 90px 90px;
     border-radius: 5%;
 }
 
@@ -169,7 +169,7 @@ h2 {
     margin-left: 1%;
     background-color: rgb(251, 246, 206);
     color: rgb(103, 93, 93);
-    padding: 30px 30px 30px 30px;
+    padding: 90px 90px 90px 90px;
     border-radius: 5%;
 }
 
@@ -179,4 +179,49 @@ h4 {
 
 #amiii {
     text-align: left;
+}
+
+h4 {
+    font-size: 26px;
+}
+
+p {
+    font-size: 18px;
+    text-align: left;
+    line-break: 2%;
+    letter-spacing: 2%;
+}
+
+.donation {
+    display: flex;
+    margin-top: 10%;
+    margin-left: 18%;
+
+}
+
+.donation01 {}
+
+.tt {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding-left: 20%;
+    max-width: 85%;
+    height: 100%;
+
+
+
+}
+
+h3 {
+    font-size: 58px;
+}
+
+.kaa {
+    color: rgb(109, 100, 100);
+    font-size: 20px;
+    font-weight: 300;
+    text-align: left;
+    padding-bottom: 5%;
 }
