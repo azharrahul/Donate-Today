@@ -199,10 +199,14 @@ p {
 
 }
 
-.donation01 {}
+.donation01 {
+    display: block;
+    margin-top: 0%;
+}
 
 .tt {
     display: block;
+    margin-top: 8%;
     margin-left: auto;
     margin-right: auto;
     width: 70%;
@@ -224,4 +228,97 @@ h3 {
     font-weight: 300;
     text-align: left;
     padding-bottom: 5%;
+}
+
+.bonna {
+    display: flex;
+    margin-top: 10%;
+    margin-left: 18%;
+}
+
+.bonnai {
+    display: flex;
+    margin-top: 5%;
+    margin-right: 10%;
+    width: 80%;
+}
+
+img {
+    border-radius: 8px;
+}
+
+
+.tebonna {
+    float: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    width: 70%;
+    padding-right: 20%;
+
+}
+
+.messi {
+    color: rgb(109, 100, 100);
+    font-size: 20px;
+    font-weight: 300;
+    text-align: left;
+    padding-top: 2%;
+    padding-bottom: 5%;
+}
+
+.getup {
+    align-items: center;
+    margin-top: 8%;
+}
+
+.ronaldo {
+    color: rgb(109, 100, 100);
+    font-size: 20px;
+    font-weight: 300;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+.exp {
+    align-items: center;
+    background-color: rgb(251, 246, 206);
+    padding: 220px;
+    padding-bottom: 100px;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 6px;
+    margin-bottom: 5%;
+}
+
+footer {
+    margin: 0%;
+    padding: 120px;
+    background-color: black;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: dimgrey;
+}
+
+footer h4 {
+    margin: 0%;
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Abril Fatface', 'cursive';
+    color: tomato;
+}
+
+footer p {
+    margin-top: 2%;
+    text-align: center;
+    font-size: 38px;
+    font-family: 'Abril Fatface', 'cursive';
+    color: white;
+}
+
+footer pre {
+    margin: 0%;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: dimgrey;
 }
