@@ -282,13 +282,44 @@ img {
 
 .exp {
     align-items: center;
-    background-color: rgb(251, 246, 206);
-    padding: 220px;
-    padding-bottom: 100px;
-    margin-left: 20%;
-    margin-right: 20%;
+    background-color: rgb(255, 170, 0);
+    padding: 50px;
+    padding-bottom: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
     border-radius: 6px;
     margin-bottom: 5%;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    background-color: #ececec;
+
+
+
+}
+
+.form-box {
+    margin-right: 0%;
+    margin-left: 0%;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #ececec;
+
+
+}
+
+.form-box input {
+    align-items: center;
+    font-size: 18px;
+    color: #0000;
+    padding: 10px;
+    border: none;
+    outline: none;
+    background: #ececec;
+
 }
 
 footer {
@@ -298,6 +329,22 @@ footer {
     text-align: center;
     font-family: 'Poppins', sans-serif;
     color: dimgrey;
+}
+
+.form-box button {
+    margin-left: 60%;
+    color: #fff;
+    padding: 10px 12px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4769d8;
+    cursor: pointer;
+    transition: .2s;
+}
+
+.form-box button:hover {
+    background: #2e54d3;
 }
 
 footer h4 {
