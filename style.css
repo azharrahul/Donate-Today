@@ -192,14 +192,14 @@ p {
     letter-spacing: 2%;
 }
 
-.donation {
+.ddd {
     display: flex;
     margin-top: 10%;
     margin-left: 18%;
 
 }
 
-.donation01 {
+.ddd1 {
     display: block;
     margin-top: 0%;
 }
@@ -282,7 +282,7 @@ img {
 
 .exp {
     align-items: center;
-    background-color: rgb(255, 170, 0);
+    background-color: tomato;
     padding: 50px;
     padding-bottom: 50px;
     margin-left: 25%;
