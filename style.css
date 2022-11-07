@@ -343,7 +343,7 @@ footer {
 }
 
 .form-box button:hover {
-    background: #2e54d3;
+    background: hsl(107, 100%, 30%);
 }
 
 footer h4 {
